@@ -1,0 +1,8 @@
+<?php
+
+goto atas;
+echo "kembali";
+atas;
+echo "gamau";
+
+?>
